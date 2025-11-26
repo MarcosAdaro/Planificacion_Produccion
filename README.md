@@ -9,19 +9,19 @@ Planificacion_Produccion/
 │
 ├── data/                                   # Fuentes de datos
 │   ├── pendientes.csv                      # Pendientes → usados por BUSCARX
-│   └── promedios_venta.csv                 # Promedios mensuales → BUSCARX
+│   └── promedios_venta.csv                 # Promedios mensuales de ventas
 │
 ├── sheets/
-│   ├── planificacion_produccion.xlsx       # Versión exportada del sheet
+│   ├── planificacion_produccion.xlsx       # Exportación del Google Sheet
 │   └── flujo_planificacion.md              # Documentación del circuito
 │
-├── workflow/                               # Representación del flujo real
+├── workflow/                               # Flujo real del proceso
 │   ├── 01_registro_operarios.md            # Operarios → planillas físicas
-│   ├── 02_carga_datos.md                   # Carga manual a Sheets
+│   ├── 02_carga_datos.md                   # Carga manual al Sheet
 │   ├── 03_actualizacion_pendientes.md      # Importación de pendientes
-│   ├── 04_actualizacion_promedios.md       # Actualización mensual ventas
+│   ├── 04_actualizacion_promedios.md       # Actualización mensual de ventas
 │   ├── 05_calculo_disponible.md            # Stock A + Stock B – Pendientes
-│   └── 06_calculo_para_producir.md         # Fórmula final de producción
+│   └── 06_calculo_para_producir.md         # Lógica final de producción
 │
 └── README.md
 
