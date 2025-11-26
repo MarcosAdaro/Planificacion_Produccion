@@ -55,8 +55,10 @@ Fórmula creada para automatizar la decisión de producción:
 
 La siguiente captura muestra el Sheet utilizado por el sector para planificar la producción diaria.  
 El archivo combina stock por depósito, pendientes, promedios de ventas mensuales y una fórmula propia que calcula automáticamente cuánto producir por código.
+<img width="845" height="216" alt="planificacion produccion" src="https://github.com/user-attachments/assets/c32ca043-e99b-4a85-8ad9-f41fb581c3f2" />
 
-![Programación de Rotomoldeados]("C:\Users\Santiago\Desktop\planificacion produccion.png")
+
+
 
 
 
