@@ -42,6 +42,7 @@ El sheet cuenta con las siguientes columnas principales:
 
 🧮 Lógica aplicada
 Cálculo del Disponible
+
 =STOCK_A + STOCK_B - PENDIENTES
 
 Cálculo del Para Producir
